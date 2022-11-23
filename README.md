@@ -9,7 +9,7 @@ Welcome to My Page
  
  Email: thewayofdoing@gmail.com
    
- Location: Mogadishu, Somalia
+ Location: Mogadishu,Somalia
 
 # Academic Info 
 
